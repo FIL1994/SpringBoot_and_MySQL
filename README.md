@@ -1,4 +1,4 @@
-#SpringBoot_and_MySQL
+# SpringBoot_and_MySQL
 
 add file src/main/resources/application.properties
 ```
