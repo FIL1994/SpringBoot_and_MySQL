@@ -2,7 +2,7 @@
 
 add file src/main/resources/application.properties
 ```
-spring.datasource.url=jdbc:mysql://[uri]:[port]/[db]]?useSSL=false
+spring.datasource.url=jdbc:mysql://[uri]:[port]/[db]?useSSL=false
 spring.datasource.username=YOUR_USERNAME
 spring.datasource.password=YOUR_PASSWORD
 

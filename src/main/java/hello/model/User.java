@@ -1,4 +1,4 @@
-package hello;
+package hello.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -38,6 +38,5 @@ public class User {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-
 
 }
